@@ -43,7 +43,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.18.0",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.23"
   },
   "devDependencies": {
     "@babel/cli": "^7.17.10",
