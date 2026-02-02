@@ -14,7 +14,7 @@
     "@chakra-ui/react": "^1.8.8",
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
-    "@mswjs/data": "^0.10.1",
+    "@mswjs/data": "^0.16.2",
     "@redux-devtools/core": "^3.12.0",
     "@redux-devtools/dock-monitor": "^2.1.1",
     "@redux-devtools/rtk-query-monitor": "^2.1.2",
